@@ -51,4 +51,5 @@ Coolpay CLI for FakeBook: supported commands
 - add prompt char, e.g '>'
 - GUI
 - deprecate legacy 'rest_client' for 'rest-client'
+- fix 'reset' to clear screen
 
